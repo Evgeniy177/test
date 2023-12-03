@@ -1,3 +1,5 @@
 def test():
-    """ test funcs"""
+    pass
+
+def test2():
     pass
